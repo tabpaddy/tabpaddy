@@ -53,8 +53,8 @@ I am currently exploring:
 ## 💬 **Let’s Connect**  
 - **Website:** [praisethedeveloper.vercel.app](https://www.praisethedeveloper.vercel.app)  
 - **LinkedIn:** [Taborota Praise Tamaramien-ebi](https://linkedin.com/in/taborota-praise-180191241)  
-- **Twitter:** [@YourTwitterHandle](https://twitter.com/@p_taborota)  
-- **Email:** [youremail@example.com](mailto:taborotap@gmail.com)  
+- **Twitter:** [@p_taborota](https://twitter.com/@p_taborota)  
+- **Email:** [taborotap@gmail.com](mailto:taborotap@gmail.com)  
 
 ---
 
