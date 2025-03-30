@@ -13,7 +13,8 @@ Welcome to my GitHub! I'm a **Software Developer** specializing in crafting resp
 - **Styling Frameworks:**  
   - Tailwind CSS
   - Bootstrap
-  - Flowbite  
+  - Flowbite
+  - Swipper
 
 ### ⚙️ **Backend Development**  
 - **Frameworks:**  
@@ -23,7 +24,10 @@ Welcome to my GitHub! I'm a **Software Developer** specializing in crafting resp
 
 ### 🛠️ **Tools & Version Control**  
 - Git, GitHub  
-- Visual Studio Code  
+- Visual Studio Code
+- Ngrok
+- Figma
+- MailTrap
 
 ---
 
