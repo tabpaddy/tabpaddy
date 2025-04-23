@@ -11,10 +11,10 @@ Welcome to my GitHub! I'm a **Software Developer** specializing in crafting resp
   - React.js, JavaScript, jQuery  
   - HTML5, CSS3  
 - **Styling Frameworks:**  
-  - Tailwind CSS
-  - Bootstrap
-  - Flowbite
-  - Swipper
+  - Tailwind CSS  
+  - Bootstrap  
+  - Flowbite  
+  - Swiper  
 
 ### ⚙️ **Backend Development**  
 - **Frameworks:**  
@@ -24,40 +24,46 @@ Welcome to my GitHub! I'm a **Software Developer** specializing in crafting resp
 
 ### 🛠️ **Tools & Version Control**  
 - Git, GitHub  
-- Visual Studio Code
-- Ngrok
-- Figma
-- MailTrap
+- Visual Studio Code  
+- Ngrok  
+- Figma  
+- MailTrap  
 
 ---
 
 ## 📈 **Projects and Contributions**  
 
 ### 🌟 **Highlighted Projects**  
-1. **[E-Commerce Platform](https://github.com/tabpaddy/e-commerse)**  
-   - **Description:** A full-stack e-commerce solution featuring product listings, a shopping cart, and secure payment integration.  
-   - **Technologies Used:** PHP, Javascript, MySQL, CSS, Bootstrap CSS  
 
-2. **[Food App Website](https://github.com/tabpaddy/react_foodApp)**  
-   - **Description:** A Food Application website to featuring different recipes . Fully responsive and built with modern design principles.  
-   - **Technologies Used:** React.js, Tailwind CSS, Spantacular Api 
+1. **[React + Laravel E-commerce Platform (Full Stack)]((https://github.com/tabpaddy/praise-shop)(https://github.com/tabpaddy/praise-shop-backend))**  
+   - **Description:** A fully functional and responsive e-commerce application built with React.js (frontend) and Laravel (backend). Features include user authentication, product management, cart system, with Paystack and Stripe payment integration.  
+   - **Frontend Tech:** React.js, Redux Toolkit, Tailwind CSS, Axios, React Router, Stripe API  
+   - **Backend Tech:** Laravel, Sanctum, MySQL, Stripe API, Paystack API  
+
+2. **[E-Commerce Platform (PHP)](https://github.com/tabpaddy/e-commerse)**  
+   - **Description:** A full-stack e-commerce solution featuring product listings, a shopping cart, and secure payment integration.  
+   - **Technologies Used:** PHP, JavaScript, MySQL, CSS, Bootstrap CSS  
+
+3. **[Food App Website](https://github.com/tabpaddy/react_foodApp)**  
+   - **Description:** A food recipe web app showcasing different meals with clean UI and responsive design.  
+   - **Technologies Used:** React.js, Tailwind CSS, Spantacular API  
 
 ---
 
 ## 🌱 **Learning Goals**  
 I am currently exploring:
-- Next js and React Native
-- Node js
-- Typescript 
-- RESTful API design and optimization
-- Dapps and solidity 
+- Next.js and React Native  
+- Node.js  
+- TypeScript  
+- RESTful API design and optimization  
+- DApps and Solidity  
 
 ---
 
 ## 💬 **Let’s Connect**  
 - **Website:** [praisethedeveloper.vercel.app](https://www.praisethedeveloper.vercel.app)  
 - **LinkedIn:** [Taborota Praise Tamaramien-ebi](https://linkedin.com/in/taborota-praise-180191241)  
-- **Twitter:** [@p_taborota](https://twitter.com/@p_taborota)  
+- **X:** [@p_taborota](https://x.com/p_taborota)  
 - **Email:** [taborotap@gmail.com](mailto:taborotap@gmail.com)  
 
 ---
@@ -69,4 +75,3 @@ I am currently exploring:
 ---
 
 Feel free to explore my repositories and connect to discuss collaboration opportunities!  
-
