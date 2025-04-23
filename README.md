@@ -35,10 +35,10 @@ Welcome to my GitHub! I'm a **Software Developer** specializing in crafting resp
 
 ### 🌟 **Highlighted Projects**  
 
-1. **[React + Laravel E-commerce Platform (Full Stack)]((https://github.com/tabpaddy/praise-shop)(https://github.com/tabpaddy/praise-shop-backend))**  
+1. **[React + Laravel E-commerce Platform (Full Stack)](https://github.com/tabpaddy/praise-shop)**  
    - **Description:** A fully functional and responsive e-commerce application built with React.js (frontend) and Laravel (backend). Features include user authentication, product management, cart system, with Paystack and Stripe payment integration.  
    - **Frontend Tech:** React.js, Redux Toolkit, Tailwind CSS, Axios, React Router, Stripe API  
-   - **Backend Tech:** Laravel, Sanctum, MySQL, Stripe API, Paystack API  
+   - **Backend Tech:** Laravel, Sanctum, MySQL, Stripe API, Paystack API 
 
 2. **[E-Commerce Platform (PHP)](https://github.com/tabpaddy/e-commerse)**  
    - **Description:** A full-stack e-commerce solution featuring product listings, a shopping cart, and secure payment integration.  
